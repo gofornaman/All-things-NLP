@@ -1,5 +1,5 @@
-# All-things-NLP
-Cluster of my NLP pet projects. 
+Recently I decided to learn NLP and the only way to learning is by doing! <br>
+This rep contains all of my simple pet projects revolving around NLP & ML. 
 
 ## 1. Classifying Customer Queries using Hashing Vectorizer
 	- Using BoW (Bag of Words), Hashing Vectorization, Linear SVC & PCA to classify whether a query is urgent or not
